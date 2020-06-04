@@ -11,9 +11,9 @@ export function AnalyticsCounts(props) {
       </li>
       <li>
         <h4>
-          Recoverd
+          Recovered
         </h4>
-        <h1>{props.recoverd}</h1>
+        <h1>{props.recovered}</h1>
       </li>
       <li>
         <h4>
